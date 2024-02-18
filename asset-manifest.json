@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/notes-keeper/static/js/main.5eb11850.js",
+    "main.js": "/notes-keeper/static/js/main.da75bc8a.js",
     "index.html": "/notes-keeper/index.html",
-    "main.5eb11850.js.map": "/notes-keeper/static/js/main.5eb11850.js.map"
+    "main.da75bc8a.js.map": "/notes-keeper/static/js/main.da75bc8a.js.map"
   },
   "entrypoints": [
-    "static/js/main.5eb11850.js"
+    "static/js/main.da75bc8a.js"
   ]
 }
